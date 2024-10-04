@@ -20,7 +20,7 @@ const App = () => {
     return (
         <div className='app'>
          <h1>MovieLands</h1>
-        
+        <p> Page where the newthings are found </p>
         <div className='search'>
             <input 
               placeholder='Search for movies'
